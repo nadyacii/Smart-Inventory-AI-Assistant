@@ -49,7 +49,7 @@ Dashboard secara otomatis menampilkan:
 
 ---
 
-### 📈 Visualisasi Data Interaktif
+### Visualisasi Data Interaktif
 
 Menggunakan Plotly untuk menampilkan:
 
@@ -95,7 +95,7 @@ Fitur ini memungkinkan chatbot mempertahankan konteks percakapan sebelumnya dan 
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 | Teknologi         | Fungsi                         |
 | ----------------- | ------------------------------ |
