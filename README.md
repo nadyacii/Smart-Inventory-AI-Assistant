@@ -164,7 +164,10 @@ Data inventory dikirim ke Gemini API untuk menghasilkan rekomendasi dan insight 
 
 ##  Tampilan Aplikasi
 
-Tambahkan screenshot aplikasi pada bagian ini.
+### 1. Preview Dataset
+### 2. Dashboard
+### 3. Top 10 Priority Restock
+### 4. Chatbot AI
 
 ### Dashboard Inventory
 
